@@ -1,6 +1,7 @@
 nginx
 golang:1.23.0-alpine
 arm64v8/alpine:3.14
+arm64v8/ubuntu:20.04
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
